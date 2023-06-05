@@ -1,5 +1,5 @@
 #HeroesPráctica
 Sebastian Tapia , edad:26 ,ciudad: Buenos aires
-Andony Sanchez
+Andony Sanchez | 24 | CABA
 Luciana Gracía Chequer
 Axel Micel 
